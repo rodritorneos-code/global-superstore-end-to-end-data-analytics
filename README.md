@@ -218,24 +218,22 @@ Profit Margin % = DIVIDE(SUM(profit), SUM(sales), 0)
 # 📂 Project Structure
 
 ```
-global-superstore-analytics/
+Proyecto_Ventas_Data/
 │
-├── data/
-│   ├── raw_dataset.csv
+├── 01_Dataset/
+│   ├── Global_Superstore_Limpio.xlsx
 │   └── sales_data_importar.csv
 │
-├── sql/
+├── 02_SQL/
 │   ├── database_schema.sql
 │   └── validation_queries.sql
 │
-├── python/
-│   └── main_analysis.py
+├── 03_Python/
+│   ├── grafico_rentabilidad.png
+│   ├── main_analysis.py
+│   └── reporte_rentabilidad.csv
 │
-├── reports/
-│   ├── reporte_rentabilidad.csv
-│   └── grafico_rentabilidad.png
-│
-├── dashboard/
+├── 04_PowerBI/
 │   └── sales_dashboard.pbix
 │
 └── images/
