@@ -65,7 +65,8 @@ Power BI Dashboard
 # 📥 Data Source
 
 **Dataset:** Global Superstore
-Descargar: https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset?resource=download
+
+**Descargar:** https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset?resource=download
 
 ### Características
 
@@ -186,7 +187,8 @@ El script genera automáticamente:
 # 📊 Business Intelligence (Power BI)
 
 Se construyó un **dashboard interactivo** conectado a MySQL mediante ODBC.
-Descargar ODBC: https://dev.mysql.com/downloads/connector/odbc/
+
+**Descargar ODBC:** https://dev.mysql.com/downloads/connector/odbc/
 
 ### Visualizaciones principales
 
