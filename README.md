@@ -14,7 +14,7 @@ El proyecto demuestra habilidades prácticas en:
 
 # 📊 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](images/dashboard_preview.jpeg)
 
 ---
 
@@ -100,7 +100,7 @@ Order Date      → order_date
 Customer Name   → customer_name
 ```
 
-![Data Cleaning](images/data_cleaning.png)
+![Data Cleaning](images/data_cleaning.jpeg)
 
 ### Resultado
 
@@ -166,7 +166,7 @@ import matplotlib.pyplot as plt
 * Agrupación por categoría:  
   `df.groupby("category")["profit"].sum()`
 
-![Python Analysis](images/python_analysis.png)
+![Python Analysis](images/python_analysis.jpeg)
 
 ---
 
