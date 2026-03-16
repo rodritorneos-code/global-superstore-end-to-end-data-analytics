@@ -142,7 +142,7 @@ Se ejecutaron consultas para validar la integridad del dataset.
 * Technology es la categoría líder
 * United States lidera en ventas
 
-<img src="images/sql_analysis.png" alt="SQL Analysis" width="800" height="600"/>
+<img src="images/sql_analysis.png" alt="SQL Analysis" style="max-width:100%; height:auto;">
 
 ---
 
