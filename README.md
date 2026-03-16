@@ -241,11 +241,11 @@ Proyecto_Ventas_Data/
 │   └── sales_dashboard.pbix
 │
 └── images/
-    ├── dashboard_preview.png
+    ├── dashboard_preview.jpeg
     ├── project_pipeline.png
-    ├── data_cleaning.png
+    ├── data_cleaning.jpeg
     ├── sql_analysis.png
-    └── python_analysis.png
+    └── python_analysis.jpeg
 ```
 
 ---
